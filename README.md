@@ -2,6 +2,7 @@
 
 值得注意的是，该 repo 仅分享 JavaScript 有关的资料，并不一定会涉及 CSS。
 
+（PS：楼主比较懒，不定期更新，请耐心等待...）
 
 # JavaScript-material-collection
 
