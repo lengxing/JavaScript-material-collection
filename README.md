@@ -7,13 +7,13 @@
 # JavaScript-material-collection
 
 
-### 国人博客
+### 国内个人博客
 
-| 姓名 | 常用 ID | 博客地址 | 关键字 | Github | 微博 | 知乎 |
+| 博客地址 | 姓名 | 常用 ID | 关键字 | Github | 微博 | 知乎 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 阮一峰 |   | [阮一峰的个人网站](http://www.ruanyifeng.com/home.html) | 70 后，著名 JavaScript 专家 |
-| 张鑫旭 |   | [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/) | ISUX 上海设计中心 |
-|  | 司徒正美  | [Ruby's Louvre](http://www.cnblogs.com/rubylouvre/) | 去哪儿前端架构师 |
+| [阮一峰的个人网站](http://www.ruanyifeng.com/home.html) | 阮一峰 |    | 70 后，著名 JavaScript 专家 |
+| [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/) | 张鑫旭 |    | ISUX 上海设计中心 |
+| [Ruby's Louvre](http://www.cnblogs.com/rubylouvre/) |  | 司徒正美   | 去哪儿前端架构师 |
 | 玉伯 |  |   | 阿里巴巴，蚂蚁金服 |
 |  | 老赵 |  | Wind.js 类库作者 |
 |  | 小胡子哥 |   | 
@@ -26,6 +26,7 @@
 
 ### 各大公司 UED
 
+- [腾讯 AlloyTeam Blog](http://www.alloyteam.com/)
 
 
 
@@ -46,7 +47,7 @@
 
 ### 老外博客
 
-| 姓名 or ID | 博客地址 | 关键字 |
+| 博客地址 | 维护者 | 关键字 |
 |:---:|:---:|:---:|
 
 
@@ -58,5 +59,12 @@
 - lintcode
 - codewars
 
+
+### Books
+
+- 《JavaScript 高级程序设计》
+- 《JavaScript 权威指南》
+- 《高性能 JavaScript》
+- 《JavaScript 语言精粹》
 
 ### 其他资料
