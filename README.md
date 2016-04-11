@@ -18,7 +18,7 @@
 | [小胡子哥的个人网站](http://www.barretlee.com/) | 李靖 | 小胡子哥，barretlee | Taobao FED | [barretlee](https://github.com/barretlee) | [Barret李靖](http://weibo.com/173248656) |
 | [颜海镜](http://yanhaijing.com/) | 颜海镜 | yanhaijing | Baidu | [yanhaijing](https://github.com/yanhaijing) |  | [颜海镜](https://www.zhihu.com/people/yanhaijing) |
 | [Phodal - 狼和凤凰](https://www.phodal.com/) | 黄峰达 | phodal | ThoughtWorks | [phodal](https://github.com/phodal) | [phodal](http://weibo.com/phodal) | [phodal](https://www.zhihu.com/people/phodal) |
-| [张云龙个人博客](https://github.com/fouber/blog) | 张云龙 | fouber | UC（优视科技）前端工程师 | [fouber](https://github.com/fouber) | [fouber](http://www.weibo.com/fouber) | [张云龙](https://www.zhihu.com/people/fouber) |
+| [张云龙个人博客](https://github.com/fouber/blog) | 张云龙 | fouber | UC（优视科技）前端工程师 | [fouber](https://github.com/fouber) | [前端农民工](http://www.weibo.com/fouber) | [张云龙](https://www.zhihu.com/people/fouber) |
 | [酷壳 – CoolShell.cn](http://coolshell.cn/) | 陈皓 | haoel | 坚定的反百度主义者 | [haoel](https://github.com/haoel) | [左耳朵耗子](http://weibo.com/haoel) | 
 | [汤姆大叔的博客](http://www.cnblogs.com/TomXu/) | 徐涛 | TomXu | 
 
@@ -40,16 +40,16 @@
 
 | # | 关键字 |
 |:---:|:---:|
-| [cnblogs]() |
-| [csdn]() |
-| [stackoverflow]() |
-| [segmentFault]() |
-| [v2ex]() |
-| [oschina]() |
-| [开发者头条]() |
-| [伯乐在线]() |
-| infoQ |
-| 稀土掘金 | 
+| [博客园](http://www.cnblogs.com/) |
+| [csdn](http://www.csdn.net/) |
+| [stackoverflow](http://stackoverflow.com/) |
+| [segmentfault](https://segmentfault.com/) |
+| [v2ex](http://v2ex.com/) |
+| [开源中国](http://www.oschina.net/) |
+| [开发者头条](http://toutiao.io/) |
+| [伯乐在线](http://blog.jobbole.com/) |
+| [infoQ](http://www.infoq.com/cn/) |
+| [稀土掘金](http://gold.xitu.io/#/) | 
 
 
 
@@ -65,9 +65,9 @@
 
 ### 数据结构和算法练习
 
-- leetcode
-- lintcode
-- codewars
+- [leetcode](https://leetcode.com/)
+- [lintcode](http://www.lintcode.com/zh-cn/)
+- [codewars](https://www.codewars.com/)
 
 
 ### Books
@@ -79,3 +79,5 @@
 - 《JavaScript 秘密花园》
 
 ### 其他资料
+
+- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
