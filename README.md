@@ -1,6 +1,6 @@
 为什么会有该 Repo. ？
 
-- 楼主本人长期致力于 JavaScript 的研究，便于将学习过程中搜集的资料汇总
+- 楼主一直并将继续致力于 JavaScript 的研究，便于将学习过程中搜集的资料汇总
 - 现存的 Repo. 普遍涉及 JavaScript + CSS，该 Repo. 仅搜集 JavaScript 相关资料
 - 现存的 Repo. 很多已经不再维护，且里面很多博客内容已经不再更新
 
@@ -9,7 +9,7 @@
 
 ### 国内个人博客
 
-| 博客地址 | 姓名 | 常用 ID | 关键字 | Github | 微博 | 知乎 |
+| 博客地址 | 维护者 | 常用 ID | 关键字 | Github | 微博 | 知乎 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [阮一峰的个人网站](http://www.ruanyifeng.com/home.html) | 阮一峰 | ruanyf | 70 后，JavaScript 专家，现就职阿里 | [ruanyf](https://github.com/ruanyf) | [ruanyf](http://weibo.com/ruanyf) | 
 | [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/) | 张鑫旭 | zhangxinxu | ISUX 上海设计中心 | [zhangxinxu](https://github.com/zhangxinxu) | 
