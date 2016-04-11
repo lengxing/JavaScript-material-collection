@@ -12,7 +12,7 @@
 | 博客地址 | 维护者 | 常用 ID | 关键字 | Github | 微博 | 知乎 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [阮一峰的个人网站](http://www.ruanyifeng.com/home.html) | 阮一峰 | ruanyf | 70 后，JavaScript 专家，现就职阿里 | [ruanyf](https://github.com/ruanyf) | [ruanyf](http://weibo.com/ruanyf) | 
-| [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/) | 张鑫旭 | zhangxinxu | ISUX 上海设计中心 | [zhangxinxu](https://github.com/zhangxinxu) | 
+| [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/) | 张鑫旭 | zhangxinxu | ISUX 上海设计中心 | [zhangxinxu](https://github.com/zhangxinxu) | [张鑫旭](http://weibo.com/zhangxinxu) |
 | [Ruby's Louvre](http://www.cnblogs.com/rubylouvre/) | 钟钦成 | 司徒正美，RubyLouvre | 去哪儿网前端架构师，avalon 作者 | [RubyLouvre](https://github.com/RubyLouvre) | [司徒正美](http://weibo.com/jslouvre) | [司徒正美](https://www.zhihu.com/people/si-tu-zheng-mei) |
 | [岁月如歌](https://lifesinger.wordpress.com/) | 王保平 | 玉伯，lifesinger  | seajs、kissy 作者 | [lifesinger](https://github.com/lifesinger) | [玉伯也叫黑侠](http://weibo.com/lifesinger) | [玉伯](https://www.zhihu.com/people/lifesinger) |
 | [小胡子哥的个人网站](http://www.barretlee.com/) | 李靖 | 小胡子哥，barretlee | Taobao FED | [barretlee](https://github.com/barretlee) | [Barret李靖](http://weibo.com/173248656) |
