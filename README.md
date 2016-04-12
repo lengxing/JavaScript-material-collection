@@ -59,7 +59,7 @@
 |:---:|:---:|:---:|
 | [CSS-Tricks](https://css-tricks.com/) | Chris Coyier |
 | [NCZOnline](https://www.nczonline.net/) | Nicholas C. Zakas | 《JavaScript 高级程序设计》作者 |
-
+| [David Walsh Blog - Home](https://davidwalsh.name/) | 
 
 
 
@@ -81,3 +81,21 @@
 ### 其他资料
 
 - [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
+- [慕课网](http://www.imooc.com/)
+- <http://www.w3school.com.cn/>
+- <https://developer.mozilla.org/zh-CN/>
+- <https://www.smashingmagazine.com/>
+- <http://lifehacker.com/> 是一个资源类聚合性网站，里面包含了程序员生活的各类资讯。在这里你可以见识到不同程序员的技术分享。
+- <http://thenextweb.com/> 是美国知名的科技博客，是了解国外最新初创企业的不错渠道，也是世界上最大的在线出版社之一。主要发布国际趋势，最新与因特网技术，商业和文化相关的新闻报道。
+- <https://dzone.com/> Dzone是一个类似IT新闻形式的编程社区，用户可以在网站内分享最新的IT新闻和编程资源，其文章质量由内容管理员来把关，所以不用担心垃圾资讯。
+- <techcrunch.com> TechCrunch 是美国科技类博客，主要报道新兴互联网公司、评论互联网新产品、发布重大突发新闻。TechCrunch 目前已成为关注互联网和创业的重量级博客媒体，是美国互联网产业的风向标，里面的内容几乎成为VC和行业投资者的投资参考。
+
+
+
+from  zhihu, to be arranged
+
+- <https://www.reddit.com/r/javascript>
+- [有哪些关于前端开发技术（HTML、CSS 和 JavaScript 等）的值得推荐的书籍？](https://www.zhihu.com/question/19809484)
+- [前端网址导航](http://whycss.com/)
+- [又一个前端网址导航](http://blog.w3cub.com/navs/)
+
